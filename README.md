@@ -1,5 +1,7 @@
-# Extracting-and-Visualizing-Stock-Data-Tesla-GameStop
+# Extracting and Visualizing Stock Data: Tesla & GameStop
 
-This project focuses on extracting historical stock data for Tesla (TSLA) and GameStop (GME) using the yfinance library, and scraping revenue data from web sources using BeautifulSoup. The collected data is then cleaned, processed, and visualized through interactive graphs created with plotly.
+This project is part of the final assignment for the "Python Project for Data Science" course offered by IBM on Coursera, which is included in the IBM Data Analyst Professional Certificate program.
 
-The visualizations help illustrate the relationship between stock performance and revenue trends for both companies, offering insights up to mid-2021. This notebook serves as a practical example of combining financial APIs, web scraping, and data visualization in Python.
+In this project, we extract historical stock data for Tesla (TSLA) and GameStop (GME) using the yfinance library, and scrape corresponding revenue data from HTML tables using BeautifulSoup. The data is then cleaned and visualized using interactive plots with plotly, allowing us to explore the relationship between stock price movements and company revenue over time.
+
+The goal of the assignment is to apply real-world data science techniques — including API usage, web scraping, data wrangling, and data visualization — in a cohesive Python notebook. The resulting insights reflect data up to mid-2021.
